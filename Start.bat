@@ -8,7 +8,9 @@ color AF
 
 goto :HideMenu
 
-
+mkdir INPUT_256X512 2>NUL
+mkdir OUTPUT_256X512 2>NUL
+mkdir INPUT_ALBUMBKG 2>NUL
 
 :HideMenu
 color 0D

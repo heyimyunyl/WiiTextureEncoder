@@ -20,4 +20,4 @@ once you convert them.
 
 ## Troubleshooting
 
-If you're having any issues, join our Discord[https://discord.gg/sbRQdVK] server.
+If you're having any issues, join our [Discord server](https://discord.gg/sbRQdVK).

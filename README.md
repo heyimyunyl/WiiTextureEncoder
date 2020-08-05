@@ -4,8 +4,8 @@ Wii Texture Encoder is a tool for encoding PNG files into SSD TEX files for Just
 
 ## Instructıons
 
-First of all, download `wimgt` and install it by running `windows-install.bat` to make textures work.
-https://szs.wiimm.de/download/szs-v2.19b-r8243-cygwin.zip
+First of all, [download wimgt](https://szs.wiimm.de/download/szs-v2.19b-r8243-cygwin.zip) and install it by running `windows-install.bat` to make textures work.
+
 
 Run `start.bat` for more advanced GUI.
 
